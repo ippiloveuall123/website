@@ -1,0 +1,79 @@
+p{
+    text-align: justify;
+}
+h1{
+    font-style: bold;
+    color: blue;
+    
+}
+
+.q{
+    text-align: center;
+}
+
+.i{
+    text-align: center;
+}
+
+.container1{
+  background-color: cornflowerblue;
+  text-decoration: floralwhite;
+  font-size: large;
+  height: 300px;
+
+  
+
+}
+ .W{
+    background-color: whitesmoke;
+    height: 200px;
+    width:  300px;
+    display: inline-block;
+    text-align: center;
+}
+.R{
+    background-color: whitesmoke;
+    height: 200px;
+    width:  300px;
+    display: inline-block;
+}
+.Z{
+    background-color:whitesmoke;
+    height:200px;
+    width:  300px;
+    display: inline-block;
+}
+.C{
+    background-color: whitesmoke;
+    height: 200px;
+    width:  300px;
+    display: inline-block;
+}
+.F{
+    background-color: whitesmoke;
+    height: 200px;
+    width:  300px;
+    display: inline-block;
+}
+.R{
+    background-color:whitesmoke;
+    height: 200px;
+    width:  300px;
+    display: inline-block;
+}
+.OS{
+    text-align: center;
+}
+h5{
+    background-color: tomato;
+    width: 500%;
+    
+}
+
+.container4{
+    background-color: cadetblue;
+    height: 600px;
+    width: 1700px;
+    
+    
+}
